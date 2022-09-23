@@ -6,7 +6,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** **Node.Js**
 
 - 📫 How to reach me **business.greeneshanon@gmail.com**
 
