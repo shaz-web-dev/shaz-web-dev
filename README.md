@@ -2,7 +2,7 @@
 <h1 align="center">I'm Shaz🤖</h1>
 <h3 align="center">Just a simple girl living in a coding world🤖</h3>
 
-<img align="right" alt="coding" width="200" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif">
+<img align="center" alt="coding" width="200" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif">
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaz-web-dev" alt="shaz-web-dev" /></a> </p>
 
